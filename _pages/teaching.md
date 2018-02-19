@@ -10,7 +10,7 @@ author_profile: true
 
 ### Teaching Assistant
 
-- Finite Element Methods (2016, Mary Wheeler, [CSE 393F]((http://catalog.utexas.edu/graduate/fields-of-study/intercollegial-programs/computational-science-engineering-mathematics/graduate-courses/))))
+- Finite Element Methods (2016, Mary Wheeler, [CSE 393F](http://catalog.utexas.edu/graduate/fields-of-study/intercollegial-programs/computational-science-engineering-mathematics/graduate-courses/)
 
 ### Professional Development
 
