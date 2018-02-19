@@ -26,4 +26,4 @@ author_profile: true
 
 ### Team leader
 
-- prepare undergraduate students for [International Math Competition for University students](http://www.imc-math.org.uk/)
+- prepared undergraduate students for [International Math Competition for University students](http://www.imc-math.org.uk/)
