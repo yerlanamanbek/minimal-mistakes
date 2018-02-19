@@ -10,8 +10,6 @@ toc_icon: "gear"
 ---
 {% include feature_row %}
 
-I am a mathematical scientist and computational mechanician, and my research lies in the interdisciplinary intersection of mathematics, physics, engineering and computational science.
-
 My research interest brings together interdisciplinary areas of mathematics, physics, engineering and
 computational science. In particularly, my research focuses on the numerical analysis of partial differential
 systems that arise in subsurface phenomena using mathematical modeling and scientific computation.
