@@ -9,6 +9,6 @@ author_profile: true
 
 I am a Ph.D. candidate in Computational Science, Engineering and Mathematics (CSEM) at 
 the Institute for Computational Engineering and Sciences (ICES) in the The University of Texas at Austin, 
-where I am team research member at Center for Subsurface Modeling and I was supervised by Professor Mary Wheeler.
+where I am at the Center for Subsurface Modeling and I was supervised by Professor Mary Wheeler.
 
 {% include feature_row %}
