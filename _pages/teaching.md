@@ -19,6 +19,10 @@ author_profile: true
 
 ## Nazarbayev University (Kazakhstan)
 
+### Instructor
+
+- Calculus 1
+
 ### Teaching Assistant
 
 - Calculus 1,2,3 
