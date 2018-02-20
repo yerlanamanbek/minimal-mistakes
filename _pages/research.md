@@ -17,3 +17,7 @@ My main interests are finite element methods, numerical analysis including a pri
 analysis, scientific computing, computational transport phenomena and numerical reservoir simulations.
 My Ph.D. work has given me an opportunity to study these problems theoretically and numerically by
 taking into account experimental laboratory data work.
+
+## Recent Awards
+
+[Poster Award](https://www.ices.utexas.edu/about/news/494/) at Texas Applied Math & Engineering Symposium (TAMES)
