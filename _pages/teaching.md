@@ -31,4 +31,4 @@ author_profile: true
 ### Team leader
 
 - prepared undergraduate students for [International Math Competition for University students](http://www.imc-math.org.uk/)
-  and the result was written in the [news](https://nu.edu.kz/news/nazarbayev-university-students-won-a-silver-medal-at-international-mathematical-competition)
+  and the result of silver medals was announced in the [news](https://nu.edu.kz/news/nazarbayev-university-students-won-a-silver-medal-at-international-mathematical-competition)
