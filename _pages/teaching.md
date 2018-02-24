@@ -21,7 +21,7 @@ author_profile: true
 
 ### Instructor
 
-- Calculus 1 (2013)
+- Calculus I (2013)
 
 ### Teaching Assistant
 
