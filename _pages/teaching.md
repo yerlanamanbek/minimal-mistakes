@@ -21,12 +21,12 @@ author_profile: true
 
 ### Instructor
 
-- Calculus 1
+- Calculus 1(2013)
 
 ### Teaching Assistant
 
-- Calculus 1,2,3 
-- Discrete Mathematics
+- Calculus 1,2,3 (2011-2013)
+- Discrete Mathematics(2012)
 
 ### Team leader
 
