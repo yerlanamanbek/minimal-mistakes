@@ -26,7 +26,7 @@ author_profile: true
 ### Teaching Assistant
 
 - Calculus 1,2,3 (2011-2013)
-- Discrete Mathematics(2012)
+- Discrete Mathematics (2012)
 
 ### Team leader
 
