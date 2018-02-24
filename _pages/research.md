@@ -20,4 +20,4 @@ taking into account experimental laboratory data work.
 
 ## Recent Awards
 
-[Poster Award](https://www.ices.utexas.edu/about/news/494/) at Texas Applied Math & Engineering Symposium (TAMES)
+[Poster Award](https://www.ices.utexas.edu/about/news/494/){:target="_blank"} at Texas Applied Math & Engineering Symposium (TAMES)
